@@ -188,7 +188,8 @@ ls -la cbeta-index-references/cbeta-classics-index.md
 ```
 
 ## 系统版本信息
-- **系统版本**：v2.1
+- **系统版本**：v2.2
 - **最后更新**：2025-04-17
 - **维护者**：Cicsoncy
 - **项目结构**：见 PROJECT_STRUCTURE.md
+
