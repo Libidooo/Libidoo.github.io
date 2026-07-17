@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "buddhist-inscription-judgment-system.skill"
+  name = "buddhist-inscription-judgment-system"
+  description = "四川地区佛教石窟铭文宗派判定总控Skill；当用户需要分析四川地区佛教石窟铭文、判定佛教宗派、识别造像题材或进行石刻题记研究时使用"
+  project_name = "宗派判定技能"
+  project_description = "四川地区佛教石窟铭文宗派判定Skill"
